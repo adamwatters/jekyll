@@ -359,7 +359,7 @@ file, each document has the following attributes:
       </td>
       <td>
         <p>
-          The date of the document's collection.
+          The date of the document's creation.
         </p>
       </td>
     </tr>
